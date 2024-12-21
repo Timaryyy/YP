@@ -1,0 +1,103 @@
+CREATE TABLE Suppliers (
+    ID int PRIMARY KEY IDENTITY,
+    Name nvarchar(100),
+    Address nvarchar(100),
+    Phone nvarchar(20)
+);
+
+CREATE TABLE Products (
+    ID int PRIMARY KEY IDENTITY,
+    Name nvarchar(100),
+    Description nvarchar(MAX),
+    Price decimal,
+    Quantity int,
+    ProductTypeID int FOREIGN KEY REFERENCES ProductTypes(ID)
+);
+CREATE TABLE Customers (
+    ID int PRIMARY KEY IDENTITY,
+    Name nvarchar(100),
+    Address nvarchar(100),
+    Phone nvarchar(20)
+);
+
+CREATE TABLE Orders (
+    ID int PRIMARY KEY IDENTITY,
+    CreationDate datetime,
+    Status nvarchar(50),
+    CustomerID int FOREIGN KEY REFERENCES Customers(ID)
+);
+
+CREATE TABLE OrderDetails (
+    ID int PRIMARY KEY IDENTITY,
+    OrderID int FOREIGN KEY REFERENCES Orders(ID),
+    ProductID int FOREIGN KEY REFERENCES Products(ID),
+    Quantity int,
+    Amount decimal
+);
+
+CREATE TABLE Users ( 
+    ID int PRIMARY KEY IDENTITY,
+    Login nvarchar(50),
+    Password nvarchar(50),
+    Role nvarchar(50)
+);
+
+
+
+CREATE TABLE ProductTypes (
+    ID int PRIMARY KEY IDENTITY,
+    TypeName nvarchar(100)
+);
+
+Заполнение:
+INSERT INTO Suppliers (Name, Address, Phone)
+VALUES
+('Поставщик 1', 'Крестовский 24', '123-456-789'),
+('Поставщик 2', 'Невский 42', '987-654-321'),
+('Поставщик 3', 'Дыбенко 23', '111-111-123');
+
+-- Заполнение таблицы ProductTypes
+INSERT INTO ProductTypes (TypeName)
+VALUES
+('Электроника'),
+('Одежда'),
+('Обувь'),
+('Мебель');
+
+-- Заполнение таблицы Customers
+INSERT INTO Customers (Name, Address, Phone)
+VALUES
+('Покупатель 1', 'Спортивная, 11', '111-222-333'),
+('Покупатель 2', 'Константиновский проспект, 9', '444-555-666'),
+('Покупатель 3', 'проспект Динамо, 18', '777-888-999');
+
+-- Заполнение таблицы Orders
+INSERT INTO Orders (CreationDate, Status, CustomerID)
+VALUES
+('2024-05-09', 'Ожидание', 1),
+('2024-05-10', 'В процессе', 2),
+('2024-05-11', 'Отправлен', 3);
+
+-- Заполнение таблицы Products
+INSERT INTO Products (Name, Description, Price, Quantity, ProductTypeID)
+VALUES
+('Телефон', 'Мощный телефон', 9999.99, 100, 1),
+('Футболка', 'Зеленая футболка', 3699.99, 50, 2),
+('Кроссовки', 'Черные кроссовки', 12000.00, 200, 3);
+
+-- Заполнение таблицы OrderDetails
+INSERT INTO OrderDetails (OrderID, ProductID, Quantity, Amount)
+VALUES
+(1, 1, 5, 29999.97),
+(1, 2, 2, 7399.98),
+(2, 3, 10, 120000.00);
+
+-- Заполнение таблицы Users
+INSERT INTO Users (Login, Password, Role)
+VALUES
+('admin', 'admin', 'Admin'),
+('user', 'user', 'User');
+
+
+
+

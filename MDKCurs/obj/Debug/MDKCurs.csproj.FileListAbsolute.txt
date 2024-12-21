@@ -1,0 +1,93 @@
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\bin\Debug\MDKCurs.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\bin\Debug\MDKCurs.exe
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\bin\Debug\MDKCurs.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Main.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Properties.Resources.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.exe
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.OrderDetails.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Orders.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Products.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Users.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.ProductTypes.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Customers.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Suppliers.resources
+E:\трзбд склады\MDKCurs\obj\Debug\MDKCurs.csprojAssemblyReference.cache
+E:\трзбд склады\MDKCurs\obj\Debug\MDKCurs.ProductTypes.resources
+E:\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Form1.resources
+E:\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Main.resources
+E:\трзбд склады\MDKCurs\obj\Debug\MDKCurs.OrderDetails.resources
+E:\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Orders.resources
+E:\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Products.resources
+E:\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Properties.Resources.resources
+E:\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Customers.resources
+E:\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Suppliers.resources
+E:\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Users.resources
+E:\трзбд склады\MDKCurs\obj\Debug\MDKCurs.csproj.GenerateResource.cache
+E:\трзбд склады\MDKCurs\obj\Debug\MDKCurs.csproj.CoreCompileInputs.cache
+E:\трзбд склады\MDKCurs\obj\Debug\MDKCurs.exe
+E:\трзбд склады\MDKCurs\obj\Debug\MDKCurs.pdb
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\MDKCurs.exe.config
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\MDKCurs.exe
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\MDKCurs.pdb
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.csproj.AssemblyReference.cache
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.ProductTypes.resources
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Form1.resources
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Main.resources
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.OrderDetails.resources
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Orders.resources
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Products.resources
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Properties.Resources.resources
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Customers.resources
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Suppliers.resources
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Users.resources
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.csproj.GenerateResource.cache
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.csproj.CoreCompileInputs.cache
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.exe
+E:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.pdb
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.csproj.AssemblyReference.cache
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.ProductTypes.resources
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Form1.resources
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Main.resources
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.OrderDetails.resources
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Orders.resources
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Products.resources
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Properties.Resources.resources
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Customers.resources
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Suppliers.resources
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.Users.resources
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.csproj.GenerateResource.cache
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.csproj.CoreCompileInputs.cache
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.exe
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.pdb
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\MDKCurs.exe.config
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\MDKCurs.exe
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\MDKCurs.pdb
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\NUnit3.TestAdapter.dll
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\NUnit3.TestAdapter.pdb
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\nunit.engine.dll
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\nunit.engine.api.dll
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\nunit.engine.core.dll
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\testcentric.engine.metadata.dll
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\nunit.framework.dll
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\nunit.framework.legacy.dll
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\System.Buffers.dll
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\System.Memory.dll
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\System.Numerics.Vectors.dll
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\System.ValueTuple.dll
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\nunit.framework.xml
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\nunit.framework.legacy.xml
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\System.Buffers.xml
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\System.Memory.xml
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\System.Numerics.Vectors.xml
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\bin\Debug\System.ValueTuple.xml
+D:\3 курс\ТРЗБД\Курсач трзбд\трзбд склады\MDKCurs\obj\Debug\MDKCurs.csproj.Up2Date
